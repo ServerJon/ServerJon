@@ -6,7 +6,7 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-200-blue)
 <img src="http://views.whatilearened.today/views/github/serverjon/views.svg"/>
 
-<p align="left">Senior FullStack developer with Angular, NativeScript & Django. Enthusiastic about everything related to python and javascript!</p>
+<p align="left">Senior FullStack developer with <a href="https://github.com/angular" target="blank">Angular</a>, <a href="https://github.com/NativeScript" target="blank">NativeScript</a> & <a href="https://github.com/django/django" target="blank">Django</a>. Enthusiastic about everything related to Python 🐍 and Javascript⚡!</p>
 
 - 🔭 I’m currently working on **Sewan Spain**
 
