@@ -3,8 +3,6 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/jon_lucas_?style=social)
 [![GitHub Ghazi](https://img.shields.io/github/followers/serverjon?label=follow&style=social)](https://github.com/serverjon)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-200-blue)
-<img src="http://views.whatilearened.today/views/github/serverjon/views.svg"/>
 
 <p align="left">Senior FullStack developer with <a href="https://github.com/angular" target="blank">Angular</a>, <a href="https://github.com/NativeScript" target="blank">NativeScript</a> & <a href="https://github.com/django/django" target="blank">Django</a>. Enthusiastic about everything related to Python 🐍 and Javascript⚡!</p>
 
@@ -31,3 +29,6 @@
 <a href="https://linkedin.com/in/jonatan-lucas-molina-71a23a83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonatan-lucas-molina-71a23a83" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7267417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7267417" height="30" width="40" /></a>
 </p>
+
+</br>
+<img src="http://views.whatilearened.today/views/github/serverjon/views.svg"/>
